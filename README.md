@@ -7,7 +7,7 @@
 </details>
 
 
-## Eu sou estudante de Segurança da informação so isso mesmo!  :\ 
+## Sou estudante de Segurança da informação so isso mesmo!  :\ 
 
 - 🔭 Eu gosto de estudar programação!
 - 🌱 Gosto de estudar tudo na verdade 🤣
