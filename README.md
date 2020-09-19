@@ -26,7 +26,15 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-Tem mais mas eu nao consegui adicionar aqui :)
+<img align="left" alt="C++" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
+
+<img align="left" alt="C" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
+
+<img align="left" alt="Java" width="50px"
+src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
+
 
 <br />
 <br />
