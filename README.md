@@ -35,6 +35,8 @@ src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22-768x768.p
 <img align="left" alt="Java" width="50px"
 src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
 
+<img align="left" alt="Solus" width="26px"
+src="https://getsol.us/imgs/solus.png"/>
 
 <br />
 <br />
