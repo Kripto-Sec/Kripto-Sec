@@ -6,7 +6,6 @@
 
 <!-- </details> -->
 
-
 ## Sou estudante de Segurança da informação/programação so isso mesmo! 🙃
 
 - 🔭 Eu gosto de estudar programação!
@@ -20,32 +19,15 @@
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripto-Sec&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
-<br />
-
-<h2 align="center"> Langs usadas</h4
-  
-<!--
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="C++" width="26px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-
-<img align="left" alt="C" width="26px"
-src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22-768x768.png"/>
 
 
-<img align="left" alt="Solus" width="26px"
-src="https://getsol.us/imgs/solus.png"/> -->
-
-<br />
-<br />
-
-
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="40px"> Langs e Ferramentas <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="40px"> </h4
+ 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 
