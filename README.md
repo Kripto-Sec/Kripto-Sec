@@ -23,6 +23,9 @@
 <br />
 
 ### Langs e Ferramentas:
+
+<h2 align="center"> Langs usadas</h4
+  
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -40,8 +43,7 @@ src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22-768x768.p
 
 
 <img align="left" alt="Solus" width="26px"
-src="https://getsol.us/imgs/solus.png"/>
--->
+src="https://getsol.us/imgs/solus.png"/> -->
 
 <br />
 <br />
