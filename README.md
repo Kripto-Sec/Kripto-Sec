@@ -19,10 +19,10 @@
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripto-Sec&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
+<!--<div>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"> Langs & Ferramentas <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"></h2>
+</div>-->
 
-
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="50px"> Langs & Ferramentas <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="50px"></h2>
- 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
