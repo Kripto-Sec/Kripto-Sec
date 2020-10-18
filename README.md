@@ -13,12 +13,6 @@
 - ⚡  As vezes sou entusiasta a Pentester
 
 
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kripto-Sec&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripto-Sec&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-</div>
-
 <!--<div>
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"> Langs & Ferramentas <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"></h2>
 </div>-->
