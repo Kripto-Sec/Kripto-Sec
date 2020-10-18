@@ -16,7 +16,9 @@
 </BR>
 
 <!-- Biohacking Gif -->
-
+<div align="center" width="50">
+<img src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="600"/>
+</div>
 
 <!-- Banana's Stats -->
 </BR>
