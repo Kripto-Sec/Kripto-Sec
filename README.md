@@ -16,17 +16,15 @@
 </BR>
 
 <!-- Biohacking Gif -->
-<div align="center" width="50">
-<img src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="600"/>
-</div>
+
 
 <!-- Banana's Stats -->
 </BR>
 
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=JonnyBanana&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kripto-Sec&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyBanana&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripto-Sec&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
 <!-- Space Div -->
