@@ -34,7 +34,7 @@
 
 
 <!-- Skillz -->
-<h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"> Langs & Ferramentas <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"></h2>  
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"> Langs & Ferramentas <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"></h2>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
