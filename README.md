@@ -19,8 +19,7 @@
 
 <!-- Biohacking Gif -->
 <div align="center" width="50">
-<img src="![tenor](https://user-images.githubusercontent.com/62577914/96356195-36d73600-10b9-11eb-8d70-354d6513dc03.gif)
-" width="600"/>
+<img src="https://media.tenor.com/images/2e348f33fabe58b6c3c21926aa337c77/tenor.gif" width="600"/>
 </div>
 
 <!-- Banana's Stats -->
