@@ -60,5 +60,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kripto-Sec&repo=Snake-Game&theme=gotham)](https://github.com/Kripto-Sec/Snake-Game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kripto-Sec&repo=Brute-ForceGui&theme=gotham)](https://github.com/Kripto-Sec/Brute-ForceGui)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kripto-Sec&repo=Admin_Painel_Finder&theme=gotham)](https://github.com/Kripto-Sec/Admin_Painel_Finder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kripto-Sec&repo=Pass-Hunter&theme=gotham)](https://github.com/Kripto-Sec/Pass-Hunter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kripto-Sec&repo=PyFinder&theme=gotham)](https://github.com/Kripto-Sec/PyFinder)
 
 </div>
