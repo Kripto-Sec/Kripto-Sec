@@ -1,4 +1,4 @@
-### Ola, Eu sou o Jean - Kripto Sec 👋
+### Hi, I'm Jean - Kripto Sec 👋
 <!--<details>
   <summary>:zap: Github Stats</summary> -->
 
@@ -6,23 +6,23 @@
 
 <!-- </details> -->
 
-## Sou estudante de Segurança da informação & programação so isso mesmo! 🙃
+## I am a Brazilian student of information security and programming! 🙃
 
-- 🔭 Eu gosto de estudar programação!
-- 🌱 Gosto de estudar tudo na verdade 🤣
-- ⚡  As vezes sou entusiasta a Pentester
+- 🔭 harvard course student cs50!
+- 🌱 i like to study about everything actually 
+- ⚡ Sometimes I'm a Pentest enthusiast (at least I try)🤣
 
 
 
 
 </BR>
 
-<!-- Biohacking Gif -->
+<!--  Gif -->
 <div align="center" width="50">
 <img src="https://media.tenor.com/images/2e348f33fabe58b6c3c21926aa337c77/tenor.gif" width="600"/>
 </div>
 
-<!-- Banana's Stats -->
+<!--  Stats -->
 </BR>
 
 <div>
@@ -36,7 +36,7 @@
 
 
 <!-- Skillz -->
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"> Langs & Ferramentas <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"></h2>  
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"> Langs & tools <img src="https://emojis.slackmojis.com/emojis/images/1588263557/8818/computer-fire.gif?1588263557" width="23px"></h2>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -49,7 +49,7 @@
 
 <!-- Repos -->
 <div align="center" >
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="50px"> Algums Repositorios <img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="50px"></h2>  
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="50px"> Some Repos<img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="50px"></h2>  
 </BR>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kripto-Sec&repo=Cbackdoor&theme=gotham)](https://github.com/Kripto-Sec/Cbackdoor)
